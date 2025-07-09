@@ -26,7 +26,7 @@ Automated fracture detection from musculoskeletal radiographs using deep learnin
 
 ---
 
-## 🏗 Model Architectures
+## Model Architectures
 
 | Model         | Pretrained | Multi-task | Best Accuracy | ROC AUC |
 |---------------|------------|------------|----------------|----------|
