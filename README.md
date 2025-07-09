@@ -4,7 +4,7 @@ Automated fracture detection from musculoskeletal radiographs using deep learnin
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 - **Primary Task**: Binary classification — Fracture vs. No Fracture  
 - **Secondary Task**: Body Part Classification (Elbow, Finger, Forearm, Hand, Humerus, Shoulder, Wrist)  
@@ -13,7 +13,7 @@ Automated fracture detection from musculoskeletal radiographs using deep learnin
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 ### 1. [MURA (Musculoskeletal Radiographs)](https://stanfordmlgroup.github.io/competitions/mura/)
 - One of the largest public datasets of musculoskeletal radiographs.
@@ -26,7 +26,7 @@ Automated fracture detection from musculoskeletal radiographs using deep learnin
 
 ---
 
-## 🏗️ Model Architectures
+## 🏗 Model Architectures
 
 | Model         | Pretrained | Multi-task | Best Accuracy | ROC AUC |
 |---------------|------------|------------|----------------|----------|
@@ -39,7 +39,7 @@ All pretrained models are adapted to accept grayscale (1-channel) inputs.
 
 ---
 
-## 📊 Results
+##  Results
 
 - **Multi-task learning** significantly improved fracture classification performance.
 - **EfficientNet-B0** achieved the best accuracy and ROC AUC.
@@ -48,7 +48,7 @@ All pretrained models are adapted to accept grayscale (1-channel) inputs.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 .
