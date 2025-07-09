@@ -52,11 +52,8 @@ All pretrained models are adapted to accept grayscale (1-channel) inputs.
 
 ```bash
 .
-├── data/                   # Processed MURA dataset and external X-rays
-├── models/                 # Model definitions (CNN, ResNet, etc.)
-├── utils/                  # Helper functions (visualization, metrics, etc.)
-├── outputs/                # Saved plots, architecture diagrams, confusion matrices
-├── results/                # Evaluation tables, classification reports
-├── train.py                # Training script
-├── evaluate.py             # Evaluation and metrics
-├── README.md               # Project documentation
+├── code/
+│ ├── Custom_CNN.ipynb
+│ ├── ResNet50.ipynb
+│ └── EfficientNet_&_DenseNet.ipynb
+├── README.md
