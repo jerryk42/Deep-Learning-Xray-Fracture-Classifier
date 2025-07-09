@@ -49,10 +49,18 @@ All pretrained models are adapted to accept grayscale (1-channel) inputs.
 ---
 
 ## How to Run
-1. Clone this repository and upload it to Google Colab.
-2. Ensure your Google Drive is mounted.
-3. Update file paths and configuration settings if needed.
-4. Run the script to train models and generate predictions.
+## How to Run
+
+1. **Clone this repository** and upload it to [Google Colab](https://colab.research.google.com/).
+2. **Download the MURA dataset** from the [official Stanford MURA site](https://stanfordmlgroup.github.io/competitions/mura/) after signing the required agreement.
+   - Place the `valid_image_paths.csv` and the image folders (e.g., `MURA-v1.1/train/`, `MURA-v1.1/valid/`) in your **Google Drive**.
+3. *(Optional)* **Download the external dataset** for generalization testing from [this Kaggle challenge](https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data).
+4. **Mount your Google Drive** in Colab using the following code:
+   ```python
+   from google.colab import drive
+   drive.mount('/content/drive')
+5. Update file paths in the notebook cells to point to your Google Drive locations.
+6. Run the desired notebook to train models and generate predictions.
 
 ---
 
