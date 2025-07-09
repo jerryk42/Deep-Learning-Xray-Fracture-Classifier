@@ -48,6 +48,14 @@ All pretrained models are adapted to accept grayscale (1-channel) inputs.
 
 ---
 
+## How to Run
+1. Clone this repository and upload it to Google Colab.
+2. Ensure your Google Drive is mounted.
+3. Update file paths and configuration settings if needed.
+4. Run the script to train models and generate predictions.
+
+---
+
 ##  Project Structure
 
 ```bash
