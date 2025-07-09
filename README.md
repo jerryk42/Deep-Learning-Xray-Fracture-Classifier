@@ -57,3 +57,10 @@ All pretrained models are adapted to accept grayscale (1-channel) inputs.
 │ ├── ResNet50.ipynb
 │ └── EfficientNet_&_DenseNet.ipynb
 ├── README.md
+```
+
+## Acknowledgments
+
+This project was completed as part of the MSc course on Deep Learning at [Your University Name].  
+Special thanks to [Professor’s Full Name] for their valuable guidance throughout the project.
+
