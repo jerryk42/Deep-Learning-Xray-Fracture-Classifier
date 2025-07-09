@@ -49,7 +49,6 @@ All pretrained models are adapted to accept grayscale (1-channel) inputs.
 ---
 
 ## How to Run
-## How to Run
 
 1. **Clone this repository** and upload it to [Google Colab](https://colab.research.google.com/).
 2. **Download the MURA dataset** from the [official Stanford MURA site](https://stanfordmlgroup.github.io/competitions/mura/) after signing the required agreement.
