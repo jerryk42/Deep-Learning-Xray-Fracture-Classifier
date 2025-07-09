@@ -62,5 +62,5 @@ All pretrained models are adapted to accept grayscale (1-channel) inputs.
 ## Acknowledgments
 
 This project was completed as part of the MSc course on Deep Learning at Athens University of Economics and Business (AUEB).  
-Special thanks to Themos Stafylakis for their valuable guidance throughout the project.
+Special thanks to Professor Themos Stafylakis for their valuable guidance throughout the project.
 
